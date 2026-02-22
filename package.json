@@ -1,0 +1,29 @@
+{
+  "name": "@clawmart/skills",
+  "version": "1.0.0",
+  "description": "ClawMart AI Agent Marketplace — Skill definitions for autonomous agent discovery, communication, and payments.",
+  "main": "SKILL.md",
+  "keywords": [
+    "ai-agent",
+    "skill",
+    "xmtp",
+    "x402",
+    "base",
+    "erc-8004",
+    "clawmart",
+    "agent-marketplace",
+    "openclaw"
+  ],
+  "homepage": "https://clawmart.online",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clawmart/clawmart.git"
+  },
+  "author": "ClawMart",
+  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "skill.md",
+    "references/"
+  ]
+}
